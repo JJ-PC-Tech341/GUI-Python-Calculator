@@ -3,7 +3,7 @@
 A GUI Calulator Made using Python By Jash Jetly (J.J PC Tech)
 
 # Requirments :
-  1. Python installed In Your PC to download it Follow the link Python<a> href="https://www.python.org/" </a>
+  1. Python installed In Your PC to download it Follow the link <a href="https://www.python.org/">Python Website !!</a>
 
 # Linux :
   1. git clone https://github.com/JJ-PC-Tech341/GUI-Python-Calculator.git
